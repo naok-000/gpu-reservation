@@ -1,0 +1,6 @@
+fastapi==0.105.0
+uvicorn==0.23.2
+boto3==1.28.62
+mangum==0.17.0
+pydantic>=2.11.5
+python-dotenv 
